@@ -1,0 +1,96 @@
+h3 { 
+    font-size: 24px; 
+    text-align:center; 
+    text-decoration: underline;
+}
+h5{
+    font-size: 20px;
+    padding: 0 10px;
+}
+p {
+    /*font-family: Courier New; */
+    font-size: 14px; 
+    padding: 10px;
+}
+/*
+ table{
+    width:100% !important;
+}
+ table, th, td{
+    border:1px solid #000;
+    border-collapse: collapse;
+    
+}
+th, td{
+    padding:10px !important;
+} 
+td#center{
+    border: 0px solid !important;
+    text-align: center !important;
+}
+*/
+h5{
+    font-size: 17px !important;
+}
+.pdf_container, .pdf_row{
+    width: 100%;
+    float: left;
+    
+}
+.col-md-6{
+    width: 50%;
+    float: left;
+}
+
+.pdf_container{
+    border: 1px solid #000 !important;
+}
+.col-md-3{
+    width: 25%;
+    float: left;
+}
+.col-md-9{
+    width: 75%;
+    float: left;
+}
+.pdf_container1 h4{
+    font-family:Eras Bold ITC; 
+    padding:20px 0; 
+    font-size:22px; 
+    color:#17353d; 
+    font-style:italic;
+    font-weight: bold;
+}
+.pdf_container1 p{
+    /*font-size: 16px;*/
+    padding: 0;
+    line-height: 25px;
+    font-family: 'Lato-Regular' !important;
+}
+.sal_table td, .sal_table td, .sal_table p{
+    font-size: 14px !important;*/
+}
+td, th{
+    font-size: 14px !important;
+}
+.sal_p{
+    line-height: 25px;
+}
+
+.sal_table1 .row{
+    width: 100% !important;
+    float: left;
+}
+.sal_table1 .col-sm-4{
+    width: 33.3% !important;
+    float: left;
+}
+
+.sal_table1 th, .sal_table1 td, .sal_table1 p, .sal_table1 h1, .sal_table1 h2, .sal_table1 h3, .sal_table1 h4, .sal_table1 h5, .sal_table1 h6, .sal_table1 b{
+    font-family: "lato" !important;
+}
+
+.sal_table1 th, .sal_table1 td, .sal_table1 p{
+    font-size: 12px !important;
+    vertical-align:top;
+}

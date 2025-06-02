@@ -1,0 +1,249 @@
+<html
+xmlns:o='urn:schemas-microsoft-com:office:office'
+xmlns:w='urn:schemas-microsoft-com:office:word'
+xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+
+<head>
+<style>
+        <!-- /* Style Definitions */
+        p.MsoHeader, li.MsoHeader, div.MsoHeader{
+            margin:0in;
+            margin-top:.0001pt;
+            mso-pagination:widow-orphan;
+            tab-stops:center 3.0in right 6.0in;
+        }
+        p.MsoFooter, li.MsoFooter, div.MsoFooter{
+            margin:0in 0in 1in 0in;
+            margin-bottom:.0001pt;
+            mso-pagination:widow-orphan;
+            tab-stops:center 3.0in right 6.0in;
+        }
+        .footer {
+            font-size: 9pt;
+        }
+        @page Section1{
+            size:8.5in 11.0in;
+            margin:0.5in 0.5in 0.5in 0.5in;
+            mso-header-margin:0.5in;
+            mso-header:h1;
+            mso-footer:f1;
+            mso-footer-margin:0.5in;
+            mso-paper-source:0;
+        }
+        div.Section1{
+            page:Section1;
+        }
+        table#hrdftrtbl{
+            margin:0in 0in 0in 9in;
+        } 
+
+        body {
+            font-family: "Calibri", "Verdana","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+            font-size:11pt;
+        }
+        pageBreak {
+          clear:all;
+          page-break-before:always;
+          mso-special-character:line-break;
+        }
+        h5{
+          font-size: 16px;
+        }
+        
+        table{
+          width:100% !important;
+        }
+        table, th, td{          
+          border-collapse: collapse;
+          /*font-family: Calibri;*/
+          /*font-size:14px;*/
+        }
+        #example1 table, #example1 th, #example1 td{
+          border:1px solid #000;
+        }
+        th, td{
+          padding:10px !important;
+        }
+        hr{
+          border: 3px solid #ff0000 !important;
+        }
+        .bg_div{
+          width: 100%;
+          float: left;
+          min-height: 5px;
+          background-color: #215968;
+          font-size: 2px !important;
+          color: #215968;
+        }
+</style>
+
+</head>
+
+
+
+<body style='tab-interval:.5in'>
+<div class="Section1">
+
+<table id="example2" class="table table-bordered table-striped" style="width:100%; border-collapse: collapse; border:none;">     
+
+      <tr>                    
+        <th style="padding:10px; border-right: 1px solid #fff !important; text-align: left !important;">
+          <h2><b>Balaji</b></h2>
+        </th>        
+      </tr>
+      <tr>                    
+        <td colspan="2">
+          <p>
+            <h5><b>SUMMARY</b></h5>
+            <div class="bg_div">test</div>
+            <p class="MsoNormal" style="text-align: justify; line-height: 115%;"><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';">A System Engineer in Diagnostics and Embedded Applications with 9 years of experience in the Automotive Sector. </span><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';">Harnessing my knowledge and skills in the field of Automobiles to create a niche for myself in the same.</span></p>          </p><br>
+          <p>
+            <h5><b>TECHNICAL COMPETENCE</b></h5>
+            <div class="bg_div">test</div>
+            <ul>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">A good working knowledge of application tools and Engine EMS strategies</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Knowledge of Engine control systems, OBD calibration, Engine calibration and vehicle engine calibration.</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Analytical skills to follow logic of electronic circuits and interface with software</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Extensive work experience in writing test cases based on requirements</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Ability to work well independently and as part of a team</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Ability to summarize technical issues and communicate effectively</span></li>
+<li class="MsoNormal" style="text-align: justify; text-indent: -18pt; border: none;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">✓<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Very good knowledge of Microsoft Office</span></li>
+<li class="MsoNormal" style="text-align: justify;"><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">INCA &amp; VISU, </span></li>
+<li class="MsoNormal" style="text-align: justify;"><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Vector Tools (Canape, Canalyzer),</span></li>
+<li class="MsoNormal" style="text-align: justify;"><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">MATLAB/Simulink.</span></li>
+<li class="MsoNormal" style="text-align: justify;">DIAdem</li>
+</ul>          </p><br>         
+
+          <p>
+            <h5><b>Work Experience</b></h5>
+            <div class="bg_div">test</div>                         
+                            
+                                            
+                  
+                <p><b>Company :</b> Caterpillar</p>
+                <p><b>Year :</b> 2018-2022</p>
+                <p><b>Position :</b> Senior System Engineer</p>
+                <p><b>Description :</b><br><p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 14.0pt 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #3b3b3b;">Produced Requirements, Design, Analyses, Experimentation, Test Planning on Diagnostic for Engine and Machine for </span><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">on various applications like Excavator, Wheel Loader, Track type Tracker etc, </span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Review design drawings specifications and customer requirements for newly engineered components and processes.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Diagnostic support for Battery Management ECU, Engine ECU, Vehicle ECU.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Performing Hardware in Loop and MATLAB Simulation testing for Engine and Machine Diagnostics. </span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Diagnostic Management and Calibration Support for After Treatment System (DOC, DPF &amp; SCR) for stage 5 Emission Norms Engine. </span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: #333333;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Participate in FMEA (Failure Mode Effects Analysis) process and Knowledge on HIL Testing and Test Plans</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 4.5pt 0cm 4.5pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; background: #FDFDFD;">Field Engineering for systems and analysis the issues with advanced configuration and supporting on Trouble shoot Guide Document.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: 115%; mso-list: l0 level1 lfo1; background: white; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 4.5pt 0cm 4.5pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #3b3b3b; background: white; mso-highlight: white;">Supported bench testing, Engine test cell, and Vehicle controls validation and debugging as required by regulatory standards</span></p></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Simpson Co&Ltd</p>
+                <p><b>Year :</b> 2014-2017</p>
+                <p><b>Position :</b> Senior Engineer</p>
+                <p><b>Description :</b><br><p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 4.5pt 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Developing EPA emissions compliant calibrations on Off highway Diesel engines with OBD calibration for American Market </span></p>
+<p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Evaluating the effects of calibration on different engine control strategies and fuel economy; evaluating after- treatment (DOC) interaction with powertrain controls; analysing test results to make technical recommendations.</span></p>
+<p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Calibrating engine control maps to meet Performance, emission, Drivability and Diagnostic </span></p>
+<p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Managing an Engine dynamometer </span><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; color: black;">and </span><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">handling various Testbeds AVL EDAC, PUMA.</span></p>
+<p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Daily activities - Making test cell work orders, interacting with tech staff, providing guidance to dyno operators, data quality analysis, preparing tech reports and knowledge documentation.</span></p>
+<p class="MsoNormal" style="text-indent: -18pt; background: white; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Very good practical understanding of engine-test cell instrumentation, data acquisition tools and regulatory emissions.</span></p>
+<p class="MsoNormal" style="text-indent: -18pt; border: none; margin: 0cm 0cm 0cm 36pt; text-align: justify;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Trouble shooting production issues. </span></p></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Nissan Ashok Leyland</p>
+                <p><b>Year :</b> AUG 2013- SEP 2014</p>
+                <p><b>Position :</b> Engine Diagnostic Engineer</p>
+                <p><b>Description :</b><br><p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Dost 1.5 L and partner 3L OBD II diagnostic support </span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">ECU data set flashing support on proto build vehicles</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Updating all the upcoming Vehicle Level Flashing file into all the endurance vehicle and monitoring for diagnostic,</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes; margin: 0cm 0cm 0cm 36.0pt;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">Working knowledge on diagnostic Tool, for DTC fault code analysis, and actuator testing.</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-align: justify; text-indent: -18.0pt; mso-list: l0 level1 lfo1; border: none; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt; mso-border-shadow: yes;"><!-- [if !supportLists]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols'; color: black;"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-IN" style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black;">ISO 15031 Emission related On Board diagnostic </span></p></p><br>
+                
+                        </p>
+
+          <p>
+            <h5><b>EDUCATION</b></h5>
+            <div class="bg_div">test</div>
+            <br>
+            <table id="example1" class="table table-bordered" style="width:100%;">
+              <tr>                
+                <th width="20%">Education</th>
+                <th width="20%">Institution/<br>University</th>
+                <th width="20%">Main Subject</th>
+                <th width="20%">Marks Secured / <br>Aggregate %</th>
+                <th width="20%">Month & Year of Pass</th>            
+              </tr>
+              
+                                <tr>                                  
+                  <td>DECE</td>
+                  <td>SA Polytechnic</td>
+                  <td>Electronics </td>
+                  <td></td>
+                  <td>2009</td>
+                </tr>                
+                                <tr>                                  
+                  <td>Bachelor of Engineering</td>
+                  <td>Anna University</td>
+                  <td>Electronics and Communication</td>
+                  <td></td>
+                  <td>2013</td>
+                </tr>                
+                                <tr>                                  
+                  <td>Masters in Engineering</td>
+                  <td>Hindustan University</td>
+                  <td>Electronics and Avionics</td>
+                  <td></td>
+                  <td>2018</td>
+                </tr>                
+                              
+            </table>
+          </p><br>
+
+          
+          <p>                                                   
+                                            
+                        </p>
+
+        </td>                        
+      </tr>
+
+                         
+              
+    </table>
+
+    <table id='hrdftrtbl' border='1' cellspacing='0' cellpadding='0'>
+      <tr>
+        <td>
+          <div style='mso-element:header' id="h1" >
+            <p class="MsoHeader">
+              <table border="0" width="100%">
+                <tr>
+                  <td align="left">
+                    <h2>Zriya Solutions</h2>
+                  </td>
+                  <td align="right">
+                    <img src="https://zriyasolutions.com/employee_portal/zriya_app/dist/img/logo.png" width="180" height="118">
+                  </td>
+                </tr>
+              </table>
+            </p>
+          </div>
+        </td>
+        <td>
+          <div style='mso-element:footer' id="f1">
+            <p class="MsoFooter">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" class="footer">
+                    <img src="https://zriyasolutions.com/employee_portal/zriya_app/dist/img/logo.png" width="50" height="35">
+                  </td>
+                </tr>
+              </table>
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>

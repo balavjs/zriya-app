@@ -1,0 +1,261 @@
+<html
+xmlns:o='urn:schemas-microsoft-com:office:office'
+xmlns:w='urn:schemas-microsoft-com:office:word'
+xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+
+<head>
+<style>
+        <!-- /* Style Definitions */
+        p.MsoHeader, li.MsoHeader, div.MsoHeader{
+            margin:0in;
+            margin-top:.0001pt;
+            mso-pagination:widow-orphan;
+            tab-stops:center 3.0in right 6.0in;
+        }
+        p.MsoFooter, li.MsoFooter, div.MsoFooter{
+            margin:0in 0in 1in 0in;
+            margin-bottom:.0001pt;
+            mso-pagination:widow-orphan;
+            tab-stops:center 3.0in right 6.0in;
+        }
+        .footer {
+            font-size: 9pt;
+        }
+        @page Section1{
+            size:8.5in 11.0in;
+            margin:0.5in 0.5in 0.5in 0.5in;
+            mso-header-margin:0.5in;
+            mso-header:h1;
+            mso-footer:f1;
+            mso-footer-margin:0.5in;
+            mso-paper-source:0;
+        }
+        div.Section1{
+            page:Section1;
+        }
+        table#hrdftrtbl{
+            margin:0in 0in 0in 9in;
+        } 
+
+        body {
+            font-family: "Calibri", "Verdana","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+            font-size:11pt;
+        }
+        pageBreak {
+          clear:all;
+          page-break-before:always;
+          mso-special-character:line-break;
+        }
+        h5{
+          font-size: 16px;
+        }
+        
+        table{
+          width:100% !important;
+        }
+        table, th, td{          
+          border-collapse: collapse;
+          /*font-family: Calibri;*/
+          /*font-size:14px;*/
+        }
+        #example1 table, #example1 th, #example1 td{
+          border:1px solid #000;
+        }
+        th, td{
+          padding:10px !important;
+        }
+        hr{
+          border: 3px solid #ff0000 !important;
+        }
+        .bg_div{
+          width: 100%;
+          float: left;
+          min-height: 5px;
+          background-color: #215968;
+          font-size: 2px !important;
+          color: #215968;
+        }
+</style>
+
+</head>
+
+
+
+<body style='tab-interval:.5in'>
+<div class="Section1">
+
+<table id="example2" class="table table-bordered table-striped" style="width:100%; border-collapse: collapse; border:none;">     
+
+      <tr>                    
+        <th style="padding:10px; border-right: 1px solid #fff !important; text-align: left !important;">
+          <h2><b>PRAVANTIKA PANDEY</b></h2>
+        </th>        
+      </tr>
+      <tr>                    
+        <td colspan="2">
+          <p>
+            <h5><b>SUMMARY</b></h5>
+            <div class="bg_div">test</div>
+            <p>A seasoned information security professional with an overall 7 years of hands-on experience into Software Security Assurance, Azure Security, Threat Modelling, OWASP Top 10, Vulnerability Assessment, Penetration Testing , security metrics alongside managing teams/virtual teams, projects/programs and certified with industry leading security certifications such as CEH, ISACA CSX-F, CompTIA Security+ , AZ 900 (Azure) , AZ 500 (AZ 500)etc.</p>          </p><br>
+          <p>
+            <h5><b>TECHNICAL COMPETENCE</b></h5>
+            <div class="bg_div">test</div>
+            <p>● Threat modelling<br>● Zero Trust Architecture<br>● Cloud Security<br>● Dynamic Application Security Assessment (DAST)<br>● Azure Devsecops , Github&ndash; CI/CD pipeline<br>● Azure Security Infrastructure<br>● Secure Code review<br>● Tools- IBM Appscan Source, Synopsys Secure Assist, HP Web Inspect, IBM Standard, Burp Suite Pro, Coverity, Blackduck Hub, Fortify, Veracode, Visio etc<br>● Security - Training, Education, Awareness.<br>● Information security Consultant Services - Project Management, Sales Team and other stakeholders during project specification, resourcing, proposal evaluation, implementation phases.<br>● Worked on project management areas such as providing support to QA, Risk Management, Reports (Weekly/Monthly), planning the work packets, metrics etc.</p>          </p><br>         
+
+          <p>
+            <h5><b>Work Experience</b></h5>
+            <div class="bg_div">test</div>                         
+                            
+                                            
+                  
+                <p><b>Company :</b> Daimler Truck Innovation Center</p>
+                <p><b>Year :</b> April 2021- Till date</p>
+                <p><b>Position :</b> Information security architect – Information Security</p>
+                <p><b>Description :</b><br><ul>
+<li>As an Advisory consultant for commercial and autonomous vehicles domain, responsible for performing security design assessment, identifying gaps as well as creating a roadmap for improving the security posture of the automotive.<br>connectivity landscape. This includes a plan, design deployment of multiple security solutions to address the gaps.</li>
+<li>Implement a secure software development process.  Assist infrastructure teams to implement end to end automated security assurance using static code analysis (SAST) and Dynamic Application security assessment (DAST).</li>
+<li>Established the security requirement and control gates in the software development lifecycle, including the operational processes and integration of SAST and DAST in the CI/CD pipeline with the help of Azure Devsecops.</li>
+<li>Responsible for implementing Azure security control that protects identity, access, data, application and network in the cloud.</li>
+<li>Setup Azure Cloud infrastructure monitoring using Azure Sentinel and Microsoft Defender.</li>
+<li>Conducted multiple session on Azure Cloud Security Services at the organization level.<br>Advice the development team on secure coding guidelines based industry&rsquo;s best practices such as OWASP Top 10 etc</li>
+<li>Conducted multiple session on Azure Cloud Security Services at the organization level.<br>Tools: Visio, Coverity ,Blackduck, Internal threat modelling tool</li>
+</ul></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Fidelity Information services</p>
+                <p><b>Year :</b> December 2018- March 2021</p>
+                <p><b>Position :</b> Assistant manager – Information Security</p>
+                <p><b>Description :</b><br><ul>
+<li>Secure code review (SAST)</li>
+<li>Web application security (DAST)</li>
+<li>Threat modelling</li>
+<li>Helping the development team to translate the vulnerabilities identified with HP Fortify</li>
+<li>Providing a remediation assistance to the development team to facilitates fixes on vulnerability exposure.</li>
+<li>Tools: Fortify, Veracode and BurpSuite Pro.</li>
+</ul></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Deloitte</p>
+                <p><b>Year :</b> July 2018 -December 2018</p>
+                <p><b>Position :</b> Assistant Manager – Risk Advisory</p>
+                <p><b>Description :</b><br><ul>
+<li>Managing Secure code reviews (SAST) for the banking client using a various approach and provide risk management plan and advisory involve as per compliance.<br>Internal</li>
+<li>Responsible for finding and classifying vulnerabilities in secure code using various tools such as HP fortify and secure assist.</li>
+<li>Supporting development teams with remediation Assistance to support secure-code practices and vulnerability resolution.</li>
+<li>Tools: - Fortify and customized internal tools within Deloitte</li>
+</ul></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Principal Financial Group</p>
+                <p><b>Year :</b> Nov-2017 – July 2018</p>
+                <p><b>Position :</b> Analyst</p>
+                <p><b>Description :</b><br><ul>
+<li>Secure Code Reviews (SAST)</li>
+<li>Dynamic Application Security Testing (DAST)</li>
+<li>Patch management for REDHAT , Mozilla etc. by providing alerts to team to use the latest version</li>
+<li>Worked on collating scan results from various security tools and translating to meaningful analytics /infographics for senior leadership dashboards</li>
+<li>Tools - Burp Suite Pro, IBM AppScan standard and checkmarx</li>
+<li>Security awareness program</li>
+</ul></p><br>
+                
+                                            
+                  
+                <p><b>Company :</b> Syntel (Atos Syntel)</p>
+                <p><b>Year :</b> Jul 2015 – Nov 2017</p>
+                <p><b>Position :</b> Executive- Info Security</p>
+                <p><b>Description :</b><br><p>Program: Software Security Assurance- Humana Inc<br>Role - Security Consultant (INDIA &amp; USA) Category - Healthcare/Health Insurance/Cybersecurity-Business Services</p>
+<ul>
+<li>Secure Code Reviews (SAST)</li>
+<li>Dynamic Application Security Testing (DAST)</li>
+<li>Vulnerability Management &ndash; Application Vulnerability Correlation (AVC)</li>
+</ul>
+<p><span style="text-decoration: underline;">Tools:</span><br>SAST: IBM AppScan Source, Checkmarx, Synopsys Secure Assist<br>DAST: IBM AppScan Standard, HP Web Inspect, BurpSuite Pro</p>
+<ul>
+<li>Security -Training, Education for developers, business managers etc. for improving security culture and promoting awareness, secure practices.</li>
+<li>Support the project management activities such as work packet distribution, risk management, lesson learnt log maintenance, stakeholder communication of operational activities.</li>
+<li>Worked on Analytics /Infographics to collate all the scan results at scan-level, project-level and translate to product-level metrics for leadership dashboards.</li>
+<li>Worked for end-end security integrations of SAST and DAST capabilities -right from identification, triaging, analysis, reporting, ticket management to remediation assistance.</li>
+<li>Worked on weekly status reports and Monthly status reports and translating the customized versions for all stakeholders (such as executive report for product leadership, comprehensive report for security and development architecture teams)</li>
+<li>Manage the team as Secondary lead in the absence of primary lead absence.</li>
+</ul></p><br>
+                
+                        </p>
+
+          <p>
+            <h5><b>EDUCATION</b></h5>
+            <div class="bg_div">test</div>
+            <br>
+            <table id="example1" class="table table-bordered" style="width:100%;">
+              <tr>                
+                <th width="20%">Education</th>
+                <th width="20%">Institution/<br>University</th>
+                <th width="20%">Main Subject</th>
+                <th width="20%">Marks Secured / <br>Aggregate %</th>
+                <th width="20%">Month & Year of Pass</th>            
+              </tr>
+              
+                                <tr>                                  
+                  <td>Bachelor of Engineering</td>
+                  <td>Rajiv Gandhi Proudyogiki Vishwavidyalaya (INDIA)</td>
+                  <td>Computer Science & Engineering</td>
+                  <td></td>
+                  <td>2014</td>
+                </tr>                
+                              
+            </table>
+          </p><br>
+
+          
+          <p>                                                   
+                                            
+                        </p>
+
+        </td>                        
+      </tr>
+
+                         
+              
+    </table>
+
+    <table id='hrdftrtbl' border='1' cellspacing='0' cellpadding='0'>
+      <tr>
+        <td>
+          <div style='mso-element:header' id="h1" >
+            <p class="MsoHeader">
+              <table border="0" width="100%">
+                <tr>
+                  <td align="left">
+                    <h2>Zriya Solutions</h2>
+                  </td>
+                  <td align="right">
+                    <img src="https://zriyasolutions.com/employee_portal/zriya_app/dist/img/logo.png" width="180" height="118">
+                  </td>
+                </tr>
+              </table>
+            </p>
+          </div>
+        </td>
+        <td>
+          <div style='mso-element:footer' id="f1">
+            <p class="MsoFooter">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" class="footer">
+                    <img src="https://zriyasolutions.com/employee_portal/zriya_app/dist/img/logo.png" width="50" height="35">
+                  </td>
+                </tr>
+              </table>
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
